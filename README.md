@@ -1,1 +1,1 @@
-hi
+I am currently working on a project that allows MTG players to create deck, and track cards that they have already, and this allows them to create.
